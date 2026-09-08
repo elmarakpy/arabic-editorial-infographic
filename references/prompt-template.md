@@ -88,6 +88,27 @@ invent, translate, mirror, or distort any character. Print-quality poster.
 
 ---
 
+## Worked example (PRESERVE mode) — the default path
+
+Source copy (Arabic, exactly as the user pasted, with a source): *"القدية: مدينة الترفيه
+الأولى. تبلغ مساحتها 360 كم². المصدر: مشروع القدية."*
+
+**(a) Copy organization** — verbatim, only arranged:
+
+| Slot | Arabic |
+|---|---|
+| Headline | القدية: مدينة الترفيه الأولى |
+| Stat 1 | 360 كم² — المساحة |
+| Source | مشروع القدية |
+
+Coverage: every word placed once; nothing translated, added, or dropped. `360 كم²` kept as
+written. Archetype (decision table): a place/megaproject → **dark cinematic**, turquoise.
+
+**(b) Scene-only** (recommended): a night render of a futuristic entertainment city skyline,
+turquoise→navy, gold horizon; reserve a top-right ~35% headline zone and a bottom ~20% stat
+cell; no text. **(c) Combined**: same scene + the exact three strings above + the accuracy
+clause. (Full skeletons above.)
+
 > ⚠️ **The two examples below are COMPOSE-MODE demonstrations** — the English source was
 > translated and expanded into Arabic, and some figures/labels are illustrative. They show
 > the *visual system only*. In **preserve mode** you must NOT translate or add figures,

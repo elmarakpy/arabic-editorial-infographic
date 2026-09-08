@@ -62,6 +62,26 @@ emblem + kicker + GIANT stacked headline (accent word in gold) + source line. No
 no stat band — atmospheric full-bleed hero. Same archetype/palette/aspect as the set;
 the cover is the "poster face", content panels `1/N … N/N` carry the data.
 
+## Layout modes (beyond the single hero grid)
+
+Most panels use the hero grid (headline → hero → body → stats). Two extra modes recur:
+
+- **Two-column comparison** (e.g. الفرص / المخاطر): two side-by-side RTL columns, gold
+  header on the right column, a contrasting tint (often rust `#B5432A`) on the left; equal
+  widths, a thin gold divider. Each column holds one verbatim block. Good for opposed pairs.
+- **Comparison table** (e.g. a countries × strategy grid): RTL columns, header row in gold,
+  rows verbatim. Tables are the **hardest** thing for image models — always deliver the
+  **scene-only plate** (a faint gold grid + calm empty cells) and **typeset the table** in a
+  real RTL editor; treat the combined prompt as throwaway. Keep a table to one panel; if it
+  won't fit legibly, split by **whole rows** across two panels (never split a row).
+
+## Capacity (rough heuristic, per panel)
+
+Legibility budget — a guide for overflow/panel-count decisions, not a hard limit:
+- **4:5**: one headline + ~60–90 words of body + up to ~4 stats.
+- **9:16**: about 1.5× the above (taller). A dense report section or a 7-row table is at or
+  past the ceiling → prefer scene-only + typeset, or split.
+
 ## Palettes (ground / primary / accent)
 
 - Deep green `#0B3D2E` / gold `#C9A24B` / cream `#F3EAD3`

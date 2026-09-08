@@ -81,7 +81,9 @@ palette + aspect across all panels; only the hero varies. **Mood is archetype-sp
 do not paste "official/national-pride" onto a tender story or an opinion piece.
 
 ### Step 3.5 — Carousels, cover panel, overflow
-Per-panel capacity is small: one headline + a short body + a few stats stay legible.
+Per-panel capacity is small (rough budget in
+[references/design-system.md](references/design-system.md): 4:5 ≈ headline + ~60–90 words +
+≤4 stats; 9:16 ≈ 1.5×). A dense report section or a full table is at/over the ceiling.
 If the copy is larger:
 - Recommend a carousel and propose a split along the copy's own sections.
 - **Ask a bounded count**, stated clearly as **content panels + 1 cover** (e.g. "5 content
@@ -90,7 +92,8 @@ If the copy is larger:
 - Distribute whole sections/paragraphs to whole panels — never split mid-sentence, never
   trim. If the requested count can't hold the copy legibly, say so and propose the minimum.
 - **Cover panel** = title-only: kicker + headline + source/emblem, no body, no stats.
-  Prefer a **verbatim** phrase for the cover headline; offer a composed one only if asked.
+  Prefer a **verbatim** phrase for the cover headline; if none is punchy, use the document/
+  section title verbatim, or offer a composed title and **ask** before using it.
 
 ### Preflight checklist (run before Step 4)
 - [ ] Coverage: every source segment placed exactly once; nothing invented.
