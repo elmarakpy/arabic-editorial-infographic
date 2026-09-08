@@ -8,6 +8,7 @@
 ![RTL Arabic](https://img.shields.io/badge/RTL-%D8%B9%D8%B1%D8%A8%D9%8A-0E2A33?style=flat-square)
 ![Preserves copy](https://img.shields.io/badge/copy-verbatim-C9A24B?style=flat-square)
 ![No deps](https://img.shields.io/badge/deps-none-2E7D5B?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 </div>
 
