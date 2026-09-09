@@ -12,9 +12,10 @@
 
 <br>
 
-<img src="assets/sample-poster.png" alt="Sample Arabic editorial poster — Saudi AI ranking, teal/navy, green 3/7/8 عالميًا, Stanford + SDAIA" width="300">
+<img src="assets/sample-poster.png" alt="Sample — Saudi AI ranking, teal/navy, green 3/7/8 عالميًا" width="270">&nbsp;&nbsp;
+<img src="assets/sample-timeline.png" alt="Sample — Grand Egyptian Museum timeline, navy + orange, giant 3" width="270">
 
-<sub><i>Sample 9:16 poster in the data-ranking style (teal + green). Rendered mockup (<a href="assets/sample-poster.build.py">source</a>) — not a text-to-image output; the skill produces the layout + prompts, you render or typeset the final with perfect Arabic.</i></sub>
+<sub><i>Two 9:16 samples: a data-ranking layout (<a href="assets/sample-poster.build.py">source</a>) and a timeline layout (<a href="assets/sample-timeline.build.py">source</a>). Rendered mockups — not text-to-image output; the skill produces the layout + prompts, you render or typeset the final with perfect Arabic.</i></sub>
 
 </div>
 
