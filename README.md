@@ -12,9 +12,9 @@
 
 <br>
 
-<img src="assets/sample-poster.png" alt="Sample Arabic editorial poster — dark cinematic, gold headline المملكة, three stat blocks" width="440">
+<img src="assets/sample-poster.png" alt="Sample Arabic editorial poster — Saudi AI ranking, teal/navy, green 3/7/8 عالميًا, Stanford + SDAIA" width="300">
 
-<sub><i>Sample poster built from the skill's spec (dark cinematic archetype). Rendered mockup — not a text-to-image output; the skill produces the layout + prompts, you render or typeset the final.</i></sub>
+<sub><i>Sample 9:16 poster in the data-ranking style (teal + green). Rendered mockup (<a href="assets/sample-poster.build.py">source</a>) — not a text-to-image output; the skill produces the layout + prompts, you render or typeset the final with perfect Arabic.</i></sub>
 
 </div>
 
