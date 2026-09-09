@@ -10,6 +10,12 @@
 ![No deps](https://img.shields.io/badge/deps-none-2E7D5B?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
+<br>
+
+<img src="assets/sample-poster.png" alt="Sample Arabic editorial poster — dark cinematic, gold headline المملكة, three stat blocks" width="440">
+
+<sub><i>Sample poster built from the skill's spec (dark cinematic archetype). Rendered mockup — not a text-to-image output; the skill produces the layout + prompts, you render or typeset the final.</i></sub>
+
 </div>
 
 ---
